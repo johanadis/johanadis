@@ -6,10 +6,9 @@
   ✉ Reach me at: <a href="mailto:johanadisantoso.dev@gmail.com">johanadisantoso.dev@gmail.com</a>
 </p>
 <p align="center">
-<!--   <a href="https://github.com/johanadis"><img src="https://img.shields.io/github/followers/johanadis?label=GitHub&style=social" /></a> -->
+  <a href="https://github.com/johanadis"><img src="https://img.shields.io/github/followers/johanadis?label=Follow%20Me&style=social" /></a>
   <a href="https://www.linkedin.com/in/johanadi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
 </p>
-
 
 ---
 
@@ -55,7 +54,6 @@ I'm a passionate **Data Science & AI Engineering** graduate from Universitas Dip
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Looker Studio"/>
 </p>
 
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanadis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
@@ -65,6 +63,9 @@ I'm a passionate **Data Science & AI Engineering** graduate from Universitas Dip
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johanadis&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=johanadis&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="Top Contributions"/>
 </p>
 
 ---
