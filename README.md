@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Johanadi Santoso 👋</h1>
 <p align="center">
-  🚀 Fresh Graduate | 🤖 Data Science & AI Engineering Enthusiast | 🛠️ DIY & Tech Explorer
+  🚀 Fresh Graduate | 🤖 AI Engineering & Data Science  | 🛠️ Real-world ML & DIY Tech Explorer
 </p>
 <p align="center">
   ✉ Reach me at: <a href="mailto:johanadisantoso.dev@gmail.com">johanadisantoso.dev@gmail.com</a>
