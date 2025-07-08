@@ -69,6 +69,6 @@ I'm a passionate **Data Science & AI Engineering** graduate from Universitas Dip
 </p>
 
 ---
-<a href="mailto:johanadi.santoso@gmail.com">✉</a> Feel free to reach out for collaboration, internships, or just a friendly chat about AI & Data Science!
+<a href="mailto:johanadisantoso.dev@gmail.com">✉</a> Feel free to reach out for collaboration, internships, or just a friendly chat about AI & Data Science!
 > "Building a smarter world, one model at a time."
 
