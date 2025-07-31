@@ -58,15 +58,7 @@ I'm a passionate **Data Science & AI Engineering** graduate from Universitas Dip
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanadis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johanadis&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johanadis&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=johanadis&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="Top Contributions"/>
-</p>
+
 
 ---
 <a href="mailto:johanadisantoso.dev@gmail.com">✉</a> Feel free to reach out for collaboration, internships, or just a friendly chat about AI & Data Science!
